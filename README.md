@@ -1,5 +1,6 @@
 # Linear Regression Notes
 
-## Source:
+## Links and Resources:
 
-- https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/
+- Source: https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/
+- [See Jupyter Notebook](practice-linear-regression.ipynb)
